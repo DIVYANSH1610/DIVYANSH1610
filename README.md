@@ -35,7 +35,7 @@ divyansh = {
     "name"        : "Divyansh Dwivedi",
     "location"    : "Lucknow, Uttar Pradesh 🇮🇳",
     "education"   : [
-                      "B.Tech CSE — SRMU (2023–2027)",
+                      "B.Tech CSE — SRMU (2024–2027)",
                       "B.Sc Mathematics, Statistics & CS — NPC (2024)",  # dual degree
                     ],
     "identity"    : ["Full-Stack Developer", "AI/GenAI Engineer", "Freelance Dev"],
