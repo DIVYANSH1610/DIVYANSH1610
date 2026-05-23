@@ -251,7 +251,7 @@ Dynamic city explorer with live weather, image galleries, Wikipedia summaries, a
 
 <div align="center">
 
-<img src="https://leetcard.vercel.app/Divyansh1610?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/Divyansh1610?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats"/>
 
 <br/><br/>
 
